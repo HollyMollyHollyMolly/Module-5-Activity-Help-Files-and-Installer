@@ -17,3 +17,12 @@ documentation for details.
 
 .. automodule:: league.league
   :members:         
+
+.. automodule:: player.player
+ :members:
+
+.. automodule:: sports_app.sports_app
+  :members:
+
+.. automodule:: team.team
+  :members:

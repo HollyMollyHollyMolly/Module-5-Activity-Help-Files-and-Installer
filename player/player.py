@@ -1,4 +1,4 @@
-"""This module defines the League class."""
+"""This module defines the Player class."""
 
 __author__ = "ACE Faculty"
 __version__ = "1.0.0"

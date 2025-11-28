@@ -16,7 +16,6 @@ class SportsApp(QWidget):
 
         super().__init__()
         self.__initialize_widgets()
-
         self.button.clicked.connect(self.__show_message)
 
     def __initialize_widgets(self):
